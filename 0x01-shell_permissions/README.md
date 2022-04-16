@@ -1,1 +1,3 @@
-This folder contain executable files for gaining shell permissions
+describing what each script is doing
+
+<<<<<<<<<<<<like share and subscribe thanks>>>>>>>>>>>>
